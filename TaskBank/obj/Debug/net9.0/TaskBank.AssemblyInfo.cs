@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0558590d4a2c2295c867c247874e431781271abf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ebd5b4e92ae8c3c9bd1c5afc80e804d64bf7c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

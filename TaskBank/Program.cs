@@ -1,7 +1,11 @@
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
 using System;
+using TaskBank.Entities;
+using TaskBank.Services.Auth;
 
 
 
@@ -9,26 +13,14 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddAuthentication(options =>
-{
-    options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = GoogleDefaults.AuthenticationScheme;
-})
-.AddCookie()
-.AddGoogle(googleOptions =>
-{
-    var _googleAuthOptions = builder.Configuration.GetSection("GoogleAuth").Get<GoogleAuthOptions>();
-    if(_googleAuthOptions != null)
-    {
-        googleOptions.ClientId = _googleAuthOptions.ClientId;
-        googleOptions.ClientSecret = _googleAuthOptions.ClientSecret;
-    }
-    else
-    {
-        throw new InvalidOperationException("Google OAuth конфигурация не найдена. Проверьте UserSecrets или appsettings.json.");
-    }
-    
-});
+
+builder.Services.AddAuthService(builder.Configuration);
+
+var connString = builder.Configuration
+ .GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<UsersDBContext>(options =>    
+    options.UseSqlite(connString));
 
 var app = builder.Build();
 
@@ -48,25 +40,11 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthentication();
-app.UseAuthorization();
-
 app.MapRazorPages();
 
-app.MapGet("/login", async (context) =>
-{
-    await context.ChallengeAsync(GoogleDefaults.AuthenticationScheme, new AuthenticationProperties
-    {
-        RedirectUri = "/"
-    });
-});
+app.UseAuthService();
 
 app.Run();
 
 
-class GoogleAuthOptions
-{
-    public string ClientId { get; set; }
-    public string ClientSecret { get; set; }
 
-}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj": {}
+    "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBAnk\\TaskBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj": {
+    "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBAnk\\TaskBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBAnk\\TaskBank.csproj",
         "projectName": "TaskBank",
-        "projectPath": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBAnk\\TaskBank.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBAnk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,20 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.8, )"
             },

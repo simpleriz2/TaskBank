@@ -3,27 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\services\\auth\\authserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\services\\auth\\authserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\data\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\data\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\taskbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\taskbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\data\\entities\\subtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\data\\entities\\subtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\data\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\data\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\data\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\data\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\data\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\data\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\0b3e971d-1d8e-491e-b2f2-9075d46cd1c6\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\taskbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\taskbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|c:\\users\\user\\source\\repos\\pets\\_01\\taskbank\\taskbank\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8705D2-8C34-4DBB-90A0-854D3FBB89C0}|TaskBank\\TaskBank.csproj|solutionrelative:taskbank\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,11 +69,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "AuthServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Services\\Auth\\AuthServiceExtension.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Services\\Auth\\AuthServiceExtension.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Services\\Auth\\AuthServiceExtension.cs",
+              "RelativeToolTip": "TaskBank\\Services\\Auth\\AuthServiceExtension.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:09:13.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\UserTask.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Data\\Entities\\UserTask.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\UserTask.cs*",
+              "RelativeToolTip": "TaskBank\\Data\\Entities\\UserTask.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:02:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subtopic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\Subtopic.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Data\\Entities\\Subtopic.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\Subtopic.cs*",
+              "RelativeToolTip": "TaskBank\\Data\\Entities\\Subtopic.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:53:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Data\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\Topic.cs*",
+              "RelativeToolTip": "TaskBank\\Data\\Entities\\Topic.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:53:34.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\Level.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Data\\Entities\\Level.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\Level.cs*",
+              "RelativeToolTip": "TaskBank\\Data\\Entities\\Level.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:53:04.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\Entities\\User.cs*",
+              "RelativeToolTip": "TaskBank\\Data\\Entities\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:52:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "TaskBank\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:51:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\0b3e971d-1d8e-491e-b2f2-9075d46cd1c6\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0b3e971d-1d8e-491e-b2f2-9075d46cd1c6\\secrets.json",
@@ -45,24 +172,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0b3e971d-1d8e-491e-b2f2-9075d46cd1c6\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-09T01:57:57.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Privacy.cshtml.cs",
-              "RelativeDocumentMoniker": "TaskBank\\Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Privacy.cshtml.cs",
-              "RelativeToolTip": "TaskBank\\Pages\\Privacy.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T22:39:25.869Z",
+              "WhenOpened": "2025-08-09T01:57:57.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "TaskBank\\Pages\\Index.cshtml",
@@ -75,40 +190,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "TaskBank\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "TaskBank\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T22:27:28.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskBank.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj",
-              "RelativeDocumentMoniker": "TaskBank\\TaskBank.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj",
-              "RelativeToolTip": "TaskBank\\TaskBank.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-08T22:25:42.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Program.cs",
               "RelativeDocumentMoniker": "TaskBank\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Program.cs",
               "RelativeToolTip": "TaskBank\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwC0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T22:03:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\UsersDBContext.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Data\\UsersDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Data\\UsersDBContext.cs*",
+              "RelativeToolTip": "TaskBank\\Data\\UsersDBContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:08:25.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskBank\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\appsettings.json",
+              "RelativeToolTip": "TaskBank\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T02:51:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskBank.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj",
+              "RelativeDocumentMoniker": "TaskBank\\TaskBank.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\TaskBank.csproj*",
+              "RelativeToolTip": "TaskBank\\TaskBank.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T22:25:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "TaskBank\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\pets\\_01\\TaskBank\\TaskBank\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "TaskBank\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:39:25.869Z",
               "EditorCaption": ""
             }
           ]
